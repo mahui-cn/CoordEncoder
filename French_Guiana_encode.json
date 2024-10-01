@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "name": "French Guiana",
+                "code": "GUF",
+                "group": "Countries"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": ["@@͉͑ГÑŗʀȉʹɩνǦɈΪòϤƢή͛ӸáֺѪܠ˸ğؤȥࢸۿƔ·ӻޑʳأ"],
+                "encodeOffsets": [[-53817, 2565]]
+            },
+            "_id": "french guiana"
+        }
+    ],
+    "UTF8Encoding": true,
+    "UTF8Scale": 1024
+}

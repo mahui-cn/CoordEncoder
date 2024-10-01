@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "name": "Western Sahara",
+                "code": "ESH",
+                "group": "Countries"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": ["@@oҊŸ@@ÉeǋEౝ᪁ªᒷ޿÷ȳћǄ்ᾓNǽ˫΢bCቆäĶ̢ΆϘˤୌୠ࣢Ђ੖ˀÖ˜ټۺĜ̦ŉϢ@˔ȒԲ"],
+                "encodeOffsets": [[-9005, 27772]]
+            },
+            "_id": "western sahara"
+        }
+    ],
+    "UTF8Encoding": true,
+    "UTF8Scale": 1024
+}

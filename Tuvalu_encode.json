@@ -1,0 +1,27 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "shapeName": "Tuvalu",
+                "shapeISO": "TUV",
+                "shapeID": "95523829B53315132220716",
+                "shapeGroup": "TUV",
+                "shapeType": "ADM0"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [["@@FX@ZM\\MNCCH@JML[@SESKEFE@EFDBH"], ["@@EH@JAKFIBBDITKNIZgGTMRSRBDCCMFDHEFDLEA@KA@"], ["@@K^GNZwDaLmO_SOQETDh`BFQzC`GN"], ["@@DFBVRXHTGOS]@MGKEOMIFCAIHEFB@^FN"], ["@@E@CCAG`oFUN@RTAJOLCCEDACFCDICEG@GRHF@DCBDHSRAFGCBCACCBAHDDBCD@@D"], ["@@AFA@AEECBEHEPCLBFNCHAQI@MFAH"], ["@@JR@REPEDKQCMHQFED@"], ["@@QBGAACFGJIZDDDALOB"], ["@@QdCCDI@EHGBGACC@OVIDvMn"], ["@@AFMJKDK@@EDCdI"]],
+                "encodeOffsets": [[[184185, -9655]], [[184123, -9600]], [[183489, -8672]], [[182665, -8244]], [[182957, -7637]], [[181402, -7416]], [[180554, -6452]], [[181601, -6250]], [[180357, -5815]], [[180305, -5788]]]
+            }
+        }
+    ],
+    "UTF8Encoding": true,
+    "UTF8Scale": 1024
+}
